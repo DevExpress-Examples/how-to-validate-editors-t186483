@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to validate editors
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t186483)**
+**[[Run Online]](https://codecentral.devexpress.com/t186483/)**
 <!-- run online end -->
 
 
